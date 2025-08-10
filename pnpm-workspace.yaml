@@ -1,6 +1,6 @@
 packages:
-  - public_apps
-  - staff_apps
+  - public_apps/*
+  - staff_apps/*
   - packages/*
 
 injectWorkspacePackages: true
