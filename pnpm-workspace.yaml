@@ -1,0 +1,9 @@
+packages:
+  - public_apps
+  - staff_apps
+  - packages/*
+
+injectWorkspacePackages: true
+
+onlyBuiltDependencies:
+  - esbuild
